@@ -163,8 +163,8 @@ with tabs[2]:
             output_area.write(result)
 
     
-    main()
-    #codigo aqui
+        main()
+    
 
    
 
